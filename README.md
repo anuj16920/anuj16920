@@ -8,6 +8,27 @@ Hi, I'm Anuj Lomte
 -->
 
 # 💻 Tech Stack
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF1493?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00BFFF?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-228B22?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4500?style=for-the-badge)
+![Large Language Models](https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF8C00?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-20B2AA?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-1E90FF?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-4169E1?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-7B68EE?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-DC143C?style=for-the-badge)
+![Model Training](https://img.shields.io/badge/Model_Training-008080?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-4B0082?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6347?style=for-the-badge)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series-4682B4?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-32CD32?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-9932CC?style=for-the-badge)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
