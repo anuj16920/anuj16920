@@ -100,3 +100,5 @@ Hi, I'm Anuj Lomte
 ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-FFB000?style=for-the-badge)
 ![Innovation](https://img.shields.io/badge/Innovation-8B008B?style=for-the-badge)
 ![Problem_Solving](https://img.shields.io/badge/Problem_Solving-1E90FF?style=for-the-badge)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj16920&layout=compact&theme=radical)
