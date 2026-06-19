@@ -70,6 +70,9 @@ Hi, I'm Anuj Lomte
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+# 💻 DOMAIN KNOWN
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
