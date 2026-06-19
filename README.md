@@ -103,5 +103,119 @@ Hi, I'm Anuj Lomte
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj16920&layout=compact&theme=radical)
 
+<h1 align="center">⚡ Anuj Lomte ⚡</h1>
 
+<h3 align="center">
+🚀 AI Engineer | Full Stack Developer | Data Science Student
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Data+Science+Student;Building+Cool+Stuff+%F0%9F%9A%80;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anuj16920&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/anuj16920?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/anuj16920?style=for-the-badge&color=yellow"/>
+</p>
+
+---
+
+# 💫 About Me
+
+🎓 B.Tech CSE (Data Science)
+
+🤖 AI & Machine Learning Enthusiast
+
+💻 Full Stack Developer
+
+📊 Future Data Analyst
+
+🚀 Building AI Agents & SaaS Products
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,tailwind,docker,git,github,vscode,linux,tensorflow,pytorch"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuj16920&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj16920&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj16920&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anuj16920&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj16920&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/anuj16920/anuj16920/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/anuj16920">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuj16920&theme=tokyonight"/>
+
+</p>
 
