@@ -104,6 +104,4 @@ Hi, I'm Anuj Lomte
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj16920&layout=compact&theme=radical)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj16920&layout=compact&bg_color=1a1b27&title_color=ffffff&text_color=c0caf5&hide_border=true" />
-</p>
+
