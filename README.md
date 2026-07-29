@@ -1,5 +1,5 @@
 Hi, I'm Anuj Lomte
-💫 About Me
+About Me
 
 🎓 B.Tech in Computer Science & Data Science (2024–2028)
 
