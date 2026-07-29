@@ -21,7 +21,7 @@ jobs:
       - name: Configure Git Identity
         run: |
           git config --global user.name "anuj16920"
-          git config --global user.email "YOUR_GITHUB_EMAIL@example.com" 
+          git config --global user.email "anujias123@gmail.com" 
 
       - name: Inject 15 Commits into README.md
         run: |
